@@ -3,6 +3,7 @@
     margin: 0;
 }
 
-h1 {
-    text-align: center;
+#programming-skills {
+    width: 100%;
+    height: auto;
 }
