@@ -4,6 +4,12 @@
     font-family: 'Quicksand', sans-serif;
 }
 
+#introduction img {
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+}
+
 .contacts {
     font-size: 25px;
 }
