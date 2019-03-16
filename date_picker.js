@@ -1,5 +1,5 @@
 // getting date id
-const id = document.getElementById('date');
+const id = document.getElementById('year');
 
 // date function for getting current year
 function date(id) {
