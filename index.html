@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>MD FARVEZ</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
 </head>
+
 <body>
     <div class="container">
         <div class="row">
@@ -15,8 +18,8 @@
                 <img src="myimage" alt="MD FARVEZ">
                 <p>description</p>
             </div>
-            <div class="col-12 col-md-6">
-                <canvas id="programming-skills">
+            <div class="col-12 col-md-6" id="programming-skills">
+                <canvas class="programming__canvas">
                     <ul>
                         <li>HTML5</li>
                         <li>CSS3</li>
@@ -61,10 +64,15 @@
         </div>
 
         <div class="row">
-            <div class="col-12">
-                <p>Copyright</p>
+            <div class="col-12 copyright">
+                <p>Copyright &copy; <span id ="year"></span> MD FARVEZ</p>
             </div>
         </div>
     </div>
 </body>
+
+// javascript files
+<script src="./skills.js"></script>
+<script src="./date_picker.js"></script>
+
 </html>

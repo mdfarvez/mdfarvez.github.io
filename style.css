@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: 'Quicksand', sans-serif;
 }
 
 #programming-skills {
@@ -11,4 +12,8 @@
 .programming-canvas {
     width: 100%;
     height: auto;
+}
+
+.copyright {
+    text-align: center;
 }
