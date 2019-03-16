@@ -4,6 +4,14 @@
     font-family: 'Quicksand', sans-serif;
 }
 
+.contacts {
+    font-size: 25px;
+}
+
+.contacts a {
+    margin: 0 10%;
+}
+
 #programming-skills {
     background-color: #000000;
     color: #ddf8cd;
