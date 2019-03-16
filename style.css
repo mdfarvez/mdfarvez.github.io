@@ -16,8 +16,13 @@
     color: #111111,   
 }
 
+.location {
+    font-size: 21px;
+}
+
 .location i {
     color: #db3236;
+    margin: 0 1% 0 0;
 }
 
 .contacts__github i {
