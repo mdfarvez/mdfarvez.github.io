@@ -9,7 +9,27 @@
 }
 
 .contacts a {
-    margin: 0 10%;
+    margin: 0 1%;
+}
+
+.job i {
+    color: #1111111,   
+}
+
+.location i {
+    color: #db3236;
+}
+
+.contacts__github i {
+    color: #211F1F;
+}
+
+.contacts__email i {
+    color: #D44638;
+}
+
+.contacts__linkedin i {
+    color: #4875B4;
 }
 
 #programming-skills {
