@@ -58,6 +58,11 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    color: #ffffff;
+}
+
+.service__skills-list {
+    list-style-type: none;
 }
 
 .copyright {
