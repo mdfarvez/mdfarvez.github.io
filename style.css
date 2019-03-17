@@ -61,6 +61,11 @@
     text-align: center;
 }
 
+.about p {
+    padding: 0 1%;
+    text-align: justify;
+}
+
 #service {
 /*    background-image: url('./attachments/workspace.jpg'); */
     background-repeat: no-repeat;
