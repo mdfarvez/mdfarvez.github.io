@@ -19,7 +19,7 @@
 }
 
 .job i {
-    color: #111111,   
+    color: #111111,
 }
 
 .location {
@@ -68,22 +68,20 @@
 }
 
 #service {
-/*    background-image: url('./attachments/workspace.jpg'); */
+    /* background-image: url('./attachments/workspace.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     color: #111111;
 }
 
-.service-skill  {
+.service-skill {
     width: 100%;
     height: auto;
     border: 1px solid #e0e0e0;
-    /*
-    -webkit-box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
-    -moz-box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
-    box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
-    */
+    -webkit-box-shadow: -3px 0px 21px -5px rgba(117, 117, 117, 0.36);
+    -moz-box-shadow: -3px 0px 21px -5px rgba(117, 117, 117, 0.36);
+    box-shadow: -3px 0px 21px -5px rgba(117, 117, 117, 0.36);
 }
 
 .service__skills-list {
