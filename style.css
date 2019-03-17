@@ -75,6 +75,14 @@
     color: #111111;
 }
 
+.service-skill  {
+    width: 100%;
+    height: auto;
+    -webkit-box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
+    -moz-box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
+    box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
+}
+
 .service__skills-list {
     list-style-type: none;
 }
