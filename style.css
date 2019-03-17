@@ -78,6 +78,7 @@
 .service-skill  {
     width: 100%;
     height: auto;
+    border: 1px solid;
     -webkit-box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
     -moz-box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
     box-shadow: inset -3px 0px 50px -5px rgba(117,117,117,0.2);
