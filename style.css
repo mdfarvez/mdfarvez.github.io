@@ -54,7 +54,7 @@
 }
 
 #service {
-    background-image: url('./attachments/workspace.jpg');
+/*    background-image: url('./attachments/workspace.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
