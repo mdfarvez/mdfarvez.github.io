@@ -53,6 +53,14 @@
     height: auto;
 }
 
+.about {
+    padding: 2.5% 0;
+}
+
+.about h3 {
+    text-align: center;
+}
+
 #service {
 /*    background-image: url('./attachments/workspace.jpg'); */
     background-repeat: no-repeat;
