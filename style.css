@@ -71,6 +71,7 @@
 }
 
 #service {
+    text-align: center;
     /* background-image: url('./attachments/workspace.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
